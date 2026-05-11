@@ -88,4 +88,4 @@ bot = tgbotapi.TBot(token=botcfg[0], threaded=True, skip_pending=False, num_thre
 bot_id = botcfg[1]
 sun = botcfg[2]
 cun = botcfg[3]
-bids = [952435061, int(bot_id)]
+bids = [8147516847, int(bot_id)]
